@@ -1,6 +1,6 @@
 //*Dep3_Prog6:
 //Un cuente el numero de veces que ahorras y nos diga el acumulado de ahorro//
-#include stidio.h>
+#include <stidio.h>
 int main()
 {
     int banco; //acumulador//
